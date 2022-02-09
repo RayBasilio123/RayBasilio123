@@ -11,7 +11,7 @@ object **Ray** {
  val name = "Ray da Silva Basilio"
  val acknowledgements = "Engenharia de Controle e Automação"
  
- val primarySkillset = "Conserto e troca de peças de aparelhos celulares"
+ val primarySkillset = "Apaixonado por aprender novas tecnologias"
  val languages = listOf("Python", "JavaScript", "C++", "CSS/HTML") 
 
 }
