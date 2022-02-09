@@ -1,4 +1,4 @@
-<h3 align="center">Olá 👋</h3>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi, seja bem-vindo!</h1></img>
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
@@ -14,6 +14,7 @@ object **Ray** {
 
 }
 ```
+</br>
 <h3 align="center">Linguagens e Ferramentas:</h3>
 
 <p align="center">
