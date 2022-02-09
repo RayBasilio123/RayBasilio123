@@ -10,8 +10,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 object **Ray** {
  val name = "Ray da Silva Basilio"
  val acknowledgements = "Engenharia de Controle e Automação"
- 
- val primarySkillset = "Apaixonado por aprender novas tecnologias"
  val languages = listOf("Python", "JavaScript", "C++", "CSS/HTML") 
 
 }
