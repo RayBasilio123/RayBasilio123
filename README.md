@@ -1,4 +1,4 @@
-### Olá 👋
+<h3 align="center">Olá 👋</h3>
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
@@ -14,9 +14,9 @@ object **Ray** {
 
 }
 ```
+<h3 align="center">Linguagens e Ferramentas:</h3>
 
-## **Linguagens e Ferramentas:**  
-
+<p align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -24,21 +24,41 @@ object **Ray** {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+</p>
 
 
-## **GitHub Estatísticas**
+<h3 align="center">Estatísticas:</h3>
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayBasilio123&theme=dracula&hide_langs_below=1" />
-</a>
+<p align="center">
+  <a href="https://github.com/RayBasilio123">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=RayBasilio123&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green"
+    />
+  </a>
+  <a href="https://github.com/RayBasilio123">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayBasilio123&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=blue-green"
+    />
+  </a>
+</p>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=RayBasilio123&show_icons=true&theme=dracula&line_height=27" alt="**Ray** github stats"/>
-</a>
 
-[linkedin]: https://www.linkedin.com/in/ray-basilio-engenheiro-de-controle-e-automacao/
-<br>
+<h3 align="center">Rede Sociais</h3>
 
-#### Rede Sociais!
-
- 📫 How to reach me: **ray.basilio@aluno.ufop.edu.br**
+<p align="center">
+  <a href="ray.basilio@aluno.ufop.edu.br">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF">
+  </a>
+  <a href="https://www.linkedin.com/in/ray-basilio-engenheiro-de-controle-e-automacao/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+  
+</p>
