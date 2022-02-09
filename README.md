@@ -41,5 +41,4 @@ object **Ray** {
 
 #### Rede Sociais!
 
-👔 [linkedin]**www.linkedin.com/in/ray-basilio-engenheiro-de-controle-e-automacao**
  📫 How to reach me: **ray.basilio@aluno.ufop.edu.br**
