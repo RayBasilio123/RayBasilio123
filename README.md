@@ -1,23 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello!;My+name+is+Ray.;🏡+I+live+in+Ouro+Preto,+MG,+Brazil.;📚+I+study+Machine+Learning+and+Generative+AI.;🎉+Be+welcome!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hello!;My+name+is+Ray.;🏡+I+live+in+Ouro+Preto,+MG,+Brazil.;📚+I+study+Machine+Learning+and+Generative+AI.;🎉+Be+welcome!" alt="Typing SVG" />
+</p>
 
+<h5 align="center">I enjoy creating great software and helping others do the same.</h5>
 
-<h5 align="center">Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.</h5>
-
-<h3 align="center">Mais sobre mim</h3>
-
+<h3 align="center">More About Me</h3>
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **Ray** {
- val name = "Ray da Silva Basilio"
- val acknowledgements = "Engenharia de Controle e Automação"
- val languages = listOf("Python", "JavaScript", "C++", "CSS/HTML") 
-
+object Ray {
+    val name = "Ray da Silva Basilio"
+    val acknowledgements = "Control and Automation Engineering"
+    val languages = listOf("Python", "JavaScript", "C++", "CSS/HTML")
 }
-```
-</br>
-<h3 align="center">Linguagens e Ferramentas:</h3>
+
 
 <p align="center">
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
