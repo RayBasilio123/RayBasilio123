@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi, seja bem-vindo!</h1></img>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hello!;My+name+is+Ray.;🏡+I+live+in+Ouro+Preto,+MG,+Brazil.;📚+I+study+Machine+Learning+and+Generative+AI.;🎉+Be+welcome!)](https://git.io/typing-svg)
+
 
 <h5 align="center">Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.</h5>
 
