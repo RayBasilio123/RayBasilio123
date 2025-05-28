@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi, seja bem-vindo!</h1></img>
-
-<h5 align="center">Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.</h5>
-
-<h3 align="center">Mais sobre mim</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hello!;My+name+is+Ray.;🏡+I+live+in+Ouro+Preto,+MG,+Brazil.;📚+I+study+Machine+Learning+and+Generative+AI.;🎉+Be+welcome!" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
