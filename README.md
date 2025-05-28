@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hello!;My+name+is+Ray.;🏡+I+live+in+Ouro+Preto,+MG,+Brazil.;📚+I+study+Machine+Learning+and+Generative+AI.;🎉+Be+welcome!" alt="Typing SVG" />
-  </a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=F724A9&size=22&lines=Hello!;My+name+is+Ray.;I+live+in+Ouro+Preto,+MG,+Brazil.;I+study+Machine+Learning+and+Generative+AI.;Be+welcome!)](https://git.io/typing-svg)
+
 </p>
 
 
